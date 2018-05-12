@@ -1,0 +1,38 @@
+_repo: The-Tale-of-Master-Meadow-Mouse_24872
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Fagan, Eleanore
+    alias: Fagan, Eleanor
+    gutenberg_agent_id: '26633'
+    url: http://www.gutenberg.org/2009/agents/26633
+covers:
+- cover_type: archival
+  image_path: 24872-h/images/illus-cover.jpg
+creator:
+  author:
+    agent_name: Bailey, Arthur Scott
+    birthdate: 1877
+    deathdate: 1949
+    gutenberg_agent_id: '1842'
+    url: http://www.gutenberg.org/2009/agents/1842
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Scott_Bailey
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2008-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24872'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Mice -- Juvenile fiction'
+- !lcsh 'Picture books for children'
+- !lcsh 'Escapes -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+title: The Tale of Master Meadow Mouse
+url: http://www.gutenberg.org/ebooks/24872
